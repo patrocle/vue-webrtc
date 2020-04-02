@@ -18,7 +18,7 @@
   },
   "dependencies": {
     "adapterjs": "^0.15.4",
-    "rtcmulticonnection": "latest",
+    "rtcmulticonnection": "master",
     "url-parse": "^1.4.7",
     "vue": "^2.6.10"
   },
